@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me 👋
+
+- 🔭 I’m currently working on a phone app with a friend.
+- 🌱 I’m currently studying Computer Science at Cal Poly SLO.
+- ⚡ Fun fact: I once memorized 3142 digits of pi.
 
 <!--
 **m33per/m33per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
